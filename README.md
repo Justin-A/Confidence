@@ -1,3 +1,3 @@
 # Confidence
-- Project with Reinforcement Learning in 7th Tobigs Conference
-from Tobigs 9th ; datamarket.kr
+- Project with Reinforcement Learning in 7th Tobigs Conference (DQN, REINFORCE, A2C)
+- from Tobigs 9th ; http://www.datamarket.kr/xe/
