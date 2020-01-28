@@ -3,4 +3,5 @@
 - from Tobigs 9th ; http://www.datamarket.kr/xe/
 - 선박 침몰로 인한 재난 구조 에이전트
 - DQN, REINFORCE, A2C
-- Dynamic Environment Problem
+- Dynamic Environment Problem with state
+
