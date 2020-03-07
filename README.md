@@ -4,4 +4,3 @@
 - 선박 침몰로 인한 재난 구조 에이전트
 - DQN, REINFORCE, A2C
 - Dynamic Environment Problem with state
-- Reference from Grid World
